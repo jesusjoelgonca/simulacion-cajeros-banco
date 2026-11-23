@@ -1,0 +1,961 @@
+configuracion,replica,tipo,accion,etiqueta,llegadas,atendidas_8h,pendientes_8h
+compartida_3,1,R1,retiro,Retiro rápido,31,31,0
+compartida_3,1,R2,retiro,Retiro normal,47,47,0
+compartida_3,1,R3,retiro,Retiro lento,28,28,0
+compartida_3,1,R4,retiro,Retiro muy lento,29,29,0
+compartida_3,1,P1,pago,Pago rápido,7,7,0
+compartida_3,1,P2,pago,Pago normal,18,18,0
+compartida_3,1,P3,pago,Pago lento,12,12,0
+compartida_3,1,P4,pago,Pago muy lento,23,23,0
+dedicada_1r_2p,1,R1,retiro,Retiro rápido,31,31,0
+dedicada_1r_2p,1,R2,retiro,Retiro normal,47,47,0
+dedicada_1r_2p,1,R3,retiro,Retiro lento,28,28,0
+dedicada_1r_2p,1,R4,retiro,Retiro muy lento,29,29,0
+dedicada_1r_2p,1,P1,pago,Pago rápido,7,7,0
+dedicada_1r_2p,1,P2,pago,Pago normal,18,18,0
+dedicada_1r_2p,1,P3,pago,Pago lento,12,12,0
+dedicada_1r_2p,1,P4,pago,Pago muy lento,23,23,0
+dedicada_2r_1p,1,R1,retiro,Retiro rápido,31,31,0
+dedicada_2r_1p,1,R2,retiro,Retiro normal,47,47,0
+dedicada_2r_1p,1,R3,retiro,Retiro lento,28,28,0
+dedicada_2r_1p,1,R4,retiro,Retiro muy lento,29,29,0
+dedicada_2r_1p,1,P1,pago,Pago rápido,7,7,0
+dedicada_2r_1p,1,P2,pago,Pago normal,18,18,0
+dedicada_2r_1p,1,P3,pago,Pago lento,12,12,0
+dedicada_2r_1p,1,P4,pago,Pago muy lento,23,23,0
+nueva_2r_2p,1,R1,retiro,Retiro rápido,31,31,0
+nueva_2r_2p,1,R2,retiro,Retiro normal,47,47,0
+nueva_2r_2p,1,R3,retiro,Retiro lento,28,28,0
+nueva_2r_2p,1,R4,retiro,Retiro muy lento,29,29,0
+nueva_2r_2p,1,P1,pago,Pago rápido,7,7,0
+nueva_2r_2p,1,P2,pago,Pago normal,18,18,0
+nueva_2r_2p,1,P3,pago,Pago lento,12,12,0
+nueva_2r_2p,1,P4,pago,Pago muy lento,23,23,0
+compartida_3,2,R1,retiro,Retiro rápido,34,34,0
+compartida_3,2,R2,retiro,Retiro normal,41,41,0
+compartida_3,2,R3,retiro,Retiro lento,19,19,0
+compartida_3,2,R4,retiro,Retiro muy lento,23,23,0
+compartida_3,2,P1,pago,Pago rápido,2,2,0
+compartida_3,2,P2,pago,Pago normal,10,10,0
+compartida_3,2,P3,pago,Pago lento,10,10,0
+compartida_3,2,P4,pago,Pago muy lento,30,30,0
+dedicada_1r_2p,2,R1,retiro,Retiro rápido,34,34,0
+dedicada_1r_2p,2,R2,retiro,Retiro normal,41,41,0
+dedicada_1r_2p,2,R3,retiro,Retiro lento,19,19,0
+dedicada_1r_2p,2,R4,retiro,Retiro muy lento,23,23,0
+dedicada_1r_2p,2,P1,pago,Pago rápido,2,2,0
+dedicada_1r_2p,2,P2,pago,Pago normal,10,10,0
+dedicada_1r_2p,2,P3,pago,Pago lento,10,10,0
+dedicada_1r_2p,2,P4,pago,Pago muy lento,30,30,0
+dedicada_2r_1p,2,R1,retiro,Retiro rápido,34,34,0
+dedicada_2r_1p,2,R2,retiro,Retiro normal,41,41,0
+dedicada_2r_1p,2,R3,retiro,Retiro lento,19,19,0
+dedicada_2r_1p,2,R4,retiro,Retiro muy lento,23,23,0
+dedicada_2r_1p,2,P1,pago,Pago rápido,2,2,0
+dedicada_2r_1p,2,P2,pago,Pago normal,10,9,1
+dedicada_2r_1p,2,P3,pago,Pago lento,10,10,0
+dedicada_2r_1p,2,P4,pago,Pago muy lento,30,29,1
+nueva_2r_2p,2,R1,retiro,Retiro rápido,34,34,0
+nueva_2r_2p,2,R2,retiro,Retiro normal,41,41,0
+nueva_2r_2p,2,R3,retiro,Retiro lento,19,19,0
+nueva_2r_2p,2,R4,retiro,Retiro muy lento,23,23,0
+nueva_2r_2p,2,P1,pago,Pago rápido,2,2,0
+nueva_2r_2p,2,P2,pago,Pago normal,10,10,0
+nueva_2r_2p,2,P3,pago,Pago lento,10,10,0
+nueva_2r_2p,2,P4,pago,Pago muy lento,30,30,0
+compartida_3,3,R1,retiro,Retiro rápido,29,29,0
+compartida_3,3,R2,retiro,Retiro normal,47,47,0
+compartida_3,3,R3,retiro,Retiro lento,31,31,0
+compartida_3,3,R4,retiro,Retiro muy lento,23,23,0
+compartida_3,3,P1,pago,Pago rápido,8,8,0
+compartida_3,3,P2,pago,Pago normal,12,12,0
+compartida_3,3,P3,pago,Pago lento,16,16,0
+compartida_3,3,P4,pago,Pago muy lento,20,20,0
+dedicada_1r_2p,3,R1,retiro,Retiro rápido,29,29,0
+dedicada_1r_2p,3,R2,retiro,Retiro normal,47,47,0
+dedicada_1r_2p,3,R3,retiro,Retiro lento,31,31,0
+dedicada_1r_2p,3,R4,retiro,Retiro muy lento,23,23,0
+dedicada_1r_2p,3,P1,pago,Pago rápido,8,8,0
+dedicada_1r_2p,3,P2,pago,Pago normal,12,12,0
+dedicada_1r_2p,3,P3,pago,Pago lento,16,16,0
+dedicada_1r_2p,3,P4,pago,Pago muy lento,20,20,0
+dedicada_2r_1p,3,R1,retiro,Retiro rápido,29,29,0
+dedicada_2r_1p,3,R2,retiro,Retiro normal,47,47,0
+dedicada_2r_1p,3,R3,retiro,Retiro lento,31,31,0
+dedicada_2r_1p,3,R4,retiro,Retiro muy lento,23,23,0
+dedicada_2r_1p,3,P1,pago,Pago rápido,8,8,0
+dedicada_2r_1p,3,P2,pago,Pago normal,12,12,0
+dedicada_2r_1p,3,P3,pago,Pago lento,16,16,0
+dedicada_2r_1p,3,P4,pago,Pago muy lento,20,20,0
+nueva_2r_2p,3,R1,retiro,Retiro rápido,29,29,0
+nueva_2r_2p,3,R2,retiro,Retiro normal,47,47,0
+nueva_2r_2p,3,R3,retiro,Retiro lento,31,31,0
+nueva_2r_2p,3,R4,retiro,Retiro muy lento,23,23,0
+nueva_2r_2p,3,P1,pago,Pago rápido,8,8,0
+nueva_2r_2p,3,P2,pago,Pago normal,12,12,0
+nueva_2r_2p,3,P3,pago,Pago lento,16,16,0
+nueva_2r_2p,3,P4,pago,Pago muy lento,20,20,0
+compartida_3,4,R1,retiro,Retiro rápido,27,27,0
+compartida_3,4,R2,retiro,Retiro normal,46,45,1
+compartida_3,4,R3,retiro,Retiro lento,15,15,0
+compartida_3,4,R4,retiro,Retiro muy lento,25,25,0
+compartida_3,4,P1,pago,Pago rápido,5,5,0
+compartida_3,4,P2,pago,Pago normal,9,9,0
+compartida_3,4,P3,pago,Pago lento,20,20,0
+compartida_3,4,P4,pago,Pago muy lento,23,23,0
+dedicada_1r_2p,4,R1,retiro,Retiro rápido,27,27,0
+dedicada_1r_2p,4,R2,retiro,Retiro normal,46,45,1
+dedicada_1r_2p,4,R3,retiro,Retiro lento,15,15,0
+dedicada_1r_2p,4,R4,retiro,Retiro muy lento,25,25,0
+dedicada_1r_2p,4,P1,pago,Pago rápido,5,5,0
+dedicada_1r_2p,4,P2,pago,Pago normal,9,9,0
+dedicada_1r_2p,4,P3,pago,Pago lento,20,20,0
+dedicada_1r_2p,4,P4,pago,Pago muy lento,23,23,0
+dedicada_2r_1p,4,R1,retiro,Retiro rápido,27,27,0
+dedicada_2r_1p,4,R2,retiro,Retiro normal,46,45,1
+dedicada_2r_1p,4,R3,retiro,Retiro lento,15,15,0
+dedicada_2r_1p,4,R4,retiro,Retiro muy lento,25,25,0
+dedicada_2r_1p,4,P1,pago,Pago rápido,5,4,1
+dedicada_2r_1p,4,P2,pago,Pago normal,9,9,0
+dedicada_2r_1p,4,P3,pago,Pago lento,20,18,2
+dedicada_2r_1p,4,P4,pago,Pago muy lento,23,21,2
+nueva_2r_2p,4,R1,retiro,Retiro rápido,27,27,0
+nueva_2r_2p,4,R2,retiro,Retiro normal,46,45,1
+nueva_2r_2p,4,R3,retiro,Retiro lento,15,15,0
+nueva_2r_2p,4,R4,retiro,Retiro muy lento,25,25,0
+nueva_2r_2p,4,P1,pago,Pago rápido,5,5,0
+nueva_2r_2p,4,P2,pago,Pago normal,9,9,0
+nueva_2r_2p,4,P3,pago,Pago lento,20,20,0
+nueva_2r_2p,4,P4,pago,Pago muy lento,23,23,0
+compartida_3,5,R1,retiro,Retiro rápido,25,25,0
+compartida_3,5,R2,retiro,Retiro normal,55,53,2
+compartida_3,5,R3,retiro,Retiro lento,21,21,0
+compartida_3,5,R4,retiro,Retiro muy lento,19,19,0
+compartida_3,5,P1,pago,Pago rápido,6,6,0
+compartida_3,5,P2,pago,Pago normal,12,12,0
+compartida_3,5,P3,pago,Pago lento,16,16,0
+compartida_3,5,P4,pago,Pago muy lento,25,25,0
+dedicada_1r_2p,5,R1,retiro,Retiro rápido,25,24,1
+dedicada_1r_2p,5,R2,retiro,Retiro normal,55,51,4
+dedicada_1r_2p,5,R3,retiro,Retiro lento,21,20,1
+dedicada_1r_2p,5,R4,retiro,Retiro muy lento,19,19,0
+dedicada_1r_2p,5,P1,pago,Pago rápido,6,6,0
+dedicada_1r_2p,5,P2,pago,Pago normal,12,12,0
+dedicada_1r_2p,5,P3,pago,Pago lento,16,16,0
+dedicada_1r_2p,5,P4,pago,Pago muy lento,25,25,0
+dedicada_2r_1p,5,R1,retiro,Retiro rápido,25,25,0
+dedicada_2r_1p,5,R2,retiro,Retiro normal,55,54,1
+dedicada_2r_1p,5,R3,retiro,Retiro lento,21,21,0
+dedicada_2r_1p,5,R4,retiro,Retiro muy lento,19,19,0
+dedicada_2r_1p,5,P1,pago,Pago rápido,6,5,1
+dedicada_2r_1p,5,P2,pago,Pago normal,12,12,0
+dedicada_2r_1p,5,P3,pago,Pago lento,16,15,1
+dedicada_2r_1p,5,P4,pago,Pago muy lento,25,25,0
+nueva_2r_2p,5,R1,retiro,Retiro rápido,25,25,0
+nueva_2r_2p,5,R2,retiro,Retiro normal,55,54,1
+nueva_2r_2p,5,R3,retiro,Retiro lento,21,21,0
+nueva_2r_2p,5,R4,retiro,Retiro muy lento,19,19,0
+nueva_2r_2p,5,P1,pago,Pago rápido,6,6,0
+nueva_2r_2p,5,P2,pago,Pago normal,12,12,0
+nueva_2r_2p,5,P3,pago,Pago lento,16,16,0
+nueva_2r_2p,5,P4,pago,Pago muy lento,25,25,0
+compartida_3,6,R1,retiro,Retiro rápido,31,31,0
+compartida_3,6,R2,retiro,Retiro normal,73,73,0
+compartida_3,6,R3,retiro,Retiro lento,25,25,0
+compartida_3,6,R4,retiro,Retiro muy lento,25,25,0
+compartida_3,6,P1,pago,Pago rápido,9,9,0
+compartida_3,6,P2,pago,Pago normal,14,14,0
+compartida_3,6,P3,pago,Pago lento,14,13,1
+compartida_3,6,P4,pago,Pago muy lento,17,17,0
+dedicada_1r_2p,6,R1,retiro,Retiro rápido,31,31,0
+dedicada_1r_2p,6,R2,retiro,Retiro normal,73,71,2
+dedicada_1r_2p,6,R3,retiro,Retiro lento,25,24,1
+dedicada_1r_2p,6,R4,retiro,Retiro muy lento,25,25,0
+dedicada_1r_2p,6,P1,pago,Pago rápido,9,9,0
+dedicada_1r_2p,6,P2,pago,Pago normal,14,14,0
+dedicada_1r_2p,6,P3,pago,Pago lento,14,13,1
+dedicada_1r_2p,6,P4,pago,Pago muy lento,17,17,0
+dedicada_2r_1p,6,R1,retiro,Retiro rápido,31,31,0
+dedicada_2r_1p,6,R2,retiro,Retiro normal,73,73,0
+dedicada_2r_1p,6,R3,retiro,Retiro lento,25,25,0
+dedicada_2r_1p,6,R4,retiro,Retiro muy lento,25,25,0
+dedicada_2r_1p,6,P1,pago,Pago rápido,9,9,0
+dedicada_2r_1p,6,P2,pago,Pago normal,14,12,2
+dedicada_2r_1p,6,P3,pago,Pago lento,14,10,4
+dedicada_2r_1p,6,P4,pago,Pago muy lento,17,14,3
+nueva_2r_2p,6,R1,retiro,Retiro rápido,31,31,0
+nueva_2r_2p,6,R2,retiro,Retiro normal,73,73,0
+nueva_2r_2p,6,R3,retiro,Retiro lento,25,25,0
+nueva_2r_2p,6,R4,retiro,Retiro muy lento,25,25,0
+nueva_2r_2p,6,P1,pago,Pago rápido,9,9,0
+nueva_2r_2p,6,P2,pago,Pago normal,14,14,0
+nueva_2r_2p,6,P3,pago,Pago lento,14,13,1
+nueva_2r_2p,6,P4,pago,Pago muy lento,17,17,0
+compartida_3,7,R1,retiro,Retiro rápido,35,35,0
+compartida_3,7,R2,retiro,Retiro normal,50,50,0
+compartida_3,7,R3,retiro,Retiro lento,29,29,0
+compartida_3,7,R4,retiro,Retiro muy lento,26,26,0
+compartida_3,7,P1,pago,Pago rápido,7,6,1
+compartida_3,7,P2,pago,Pago normal,14,14,0
+compartida_3,7,P3,pago,Pago lento,11,11,0
+compartida_3,7,P4,pago,Pago muy lento,27,27,0
+dedicada_1r_2p,7,R1,retiro,Retiro rápido,35,35,0
+dedicada_1r_2p,7,R2,retiro,Retiro normal,50,50,0
+dedicada_1r_2p,7,R3,retiro,Retiro lento,29,29,0
+dedicada_1r_2p,7,R4,retiro,Retiro muy lento,26,26,0
+dedicada_1r_2p,7,P1,pago,Pago rápido,7,6,1
+dedicada_1r_2p,7,P2,pago,Pago normal,14,14,0
+dedicada_1r_2p,7,P3,pago,Pago lento,11,11,0
+dedicada_1r_2p,7,P4,pago,Pago muy lento,27,27,0
+dedicada_2r_1p,7,R1,retiro,Retiro rápido,35,35,0
+dedicada_2r_1p,7,R2,retiro,Retiro normal,50,50,0
+dedicada_2r_1p,7,R3,retiro,Retiro lento,29,29,0
+dedicada_2r_1p,7,R4,retiro,Retiro muy lento,26,26,0
+dedicada_2r_1p,7,P1,pago,Pago rápido,7,6,1
+dedicada_2r_1p,7,P2,pago,Pago normal,14,14,0
+dedicada_2r_1p,7,P3,pago,Pago lento,11,11,0
+dedicada_2r_1p,7,P4,pago,Pago muy lento,27,27,0
+nueva_2r_2p,7,R1,retiro,Retiro rápido,35,35,0
+nueva_2r_2p,7,R2,retiro,Retiro normal,50,50,0
+nueva_2r_2p,7,R3,retiro,Retiro lento,29,29,0
+nueva_2r_2p,7,R4,retiro,Retiro muy lento,26,26,0
+nueva_2r_2p,7,P1,pago,Pago rápido,7,6,1
+nueva_2r_2p,7,P2,pago,Pago normal,14,14,0
+nueva_2r_2p,7,P3,pago,Pago lento,11,11,0
+nueva_2r_2p,7,P4,pago,Pago muy lento,27,27,0
+compartida_3,8,R1,retiro,Retiro rápido,32,32,0
+compartida_3,8,R2,retiro,Retiro normal,65,64,1
+compartida_3,8,R3,retiro,Retiro lento,30,30,0
+compartida_3,8,R4,retiro,Retiro muy lento,34,34,0
+compartida_3,8,P1,pago,Pago rápido,5,5,0
+compartida_3,8,P2,pago,Pago normal,17,17,0
+compartida_3,8,P3,pago,Pago lento,21,21,0
+compartida_3,8,P4,pago,Pago muy lento,24,24,0
+dedicada_1r_2p,8,R1,retiro,Retiro rápido,32,32,0
+dedicada_1r_2p,8,R2,retiro,Retiro normal,65,64,1
+dedicada_1r_2p,8,R3,retiro,Retiro lento,30,30,0
+dedicada_1r_2p,8,R4,retiro,Retiro muy lento,34,34,0
+dedicada_1r_2p,8,P1,pago,Pago rápido,5,5,0
+dedicada_1r_2p,8,P2,pago,Pago normal,17,17,0
+dedicada_1r_2p,8,P3,pago,Pago lento,21,21,0
+dedicada_1r_2p,8,P4,pago,Pago muy lento,24,24,0
+dedicada_2r_1p,8,R1,retiro,Retiro rápido,32,32,0
+dedicada_2r_1p,8,R2,retiro,Retiro normal,65,64,1
+dedicada_2r_1p,8,R3,retiro,Retiro lento,30,30,0
+dedicada_2r_1p,8,R4,retiro,Retiro muy lento,34,34,0
+dedicada_2r_1p,8,P1,pago,Pago rápido,5,5,0
+dedicada_2r_1p,8,P2,pago,Pago normal,17,17,0
+dedicada_2r_1p,8,P3,pago,Pago lento,21,19,2
+dedicada_2r_1p,8,P4,pago,Pago muy lento,24,24,0
+nueva_2r_2p,8,R1,retiro,Retiro rápido,32,32,0
+nueva_2r_2p,8,R2,retiro,Retiro normal,65,64,1
+nueva_2r_2p,8,R3,retiro,Retiro lento,30,30,0
+nueva_2r_2p,8,R4,retiro,Retiro muy lento,34,34,0
+nueva_2r_2p,8,P1,pago,Pago rápido,5,5,0
+nueva_2r_2p,8,P2,pago,Pago normal,17,17,0
+nueva_2r_2p,8,P3,pago,Pago lento,21,21,0
+nueva_2r_2p,8,P4,pago,Pago muy lento,24,24,0
+compartida_3,9,R1,retiro,Retiro rápido,28,28,0
+compartida_3,9,R2,retiro,Retiro normal,59,59,0
+compartida_3,9,R3,retiro,Retiro lento,21,21,0
+compartida_3,9,R4,retiro,Retiro muy lento,30,30,0
+compartida_3,9,P1,pago,Pago rápido,5,5,0
+compartida_3,9,P2,pago,Pago normal,8,8,0
+compartida_3,9,P3,pago,Pago lento,15,15,0
+compartida_3,9,P4,pago,Pago muy lento,22,22,0
+dedicada_1r_2p,9,R1,retiro,Retiro rápido,28,27,1
+dedicada_1r_2p,9,R2,retiro,Retiro normal,59,57,2
+dedicada_1r_2p,9,R3,retiro,Retiro lento,21,21,0
+dedicada_1r_2p,9,R4,retiro,Retiro muy lento,30,26,4
+dedicada_1r_2p,9,P1,pago,Pago rápido,5,5,0
+dedicada_1r_2p,9,P2,pago,Pago normal,8,8,0
+dedicada_1r_2p,9,P3,pago,Pago lento,15,15,0
+dedicada_1r_2p,9,P4,pago,Pago muy lento,22,22,0
+dedicada_2r_1p,9,R1,retiro,Retiro rápido,28,28,0
+dedicada_2r_1p,9,R2,retiro,Retiro normal,59,59,0
+dedicada_2r_1p,9,R3,retiro,Retiro lento,21,21,0
+dedicada_2r_1p,9,R4,retiro,Retiro muy lento,30,30,0
+dedicada_2r_1p,9,P1,pago,Pago rápido,5,5,0
+dedicada_2r_1p,9,P2,pago,Pago normal,8,8,0
+dedicada_2r_1p,9,P3,pago,Pago lento,15,15,0
+dedicada_2r_1p,9,P4,pago,Pago muy lento,22,22,0
+nueva_2r_2p,9,R1,retiro,Retiro rápido,28,28,0
+nueva_2r_2p,9,R2,retiro,Retiro normal,59,59,0
+nueva_2r_2p,9,R3,retiro,Retiro lento,21,21,0
+nueva_2r_2p,9,R4,retiro,Retiro muy lento,30,30,0
+nueva_2r_2p,9,P1,pago,Pago rápido,5,5,0
+nueva_2r_2p,9,P2,pago,Pago normal,8,8,0
+nueva_2r_2p,9,P3,pago,Pago lento,15,15,0
+nueva_2r_2p,9,P4,pago,Pago muy lento,22,22,0
+compartida_3,10,R1,retiro,Retiro rápido,36,36,0
+compartida_3,10,R2,retiro,Retiro normal,58,58,0
+compartida_3,10,R3,retiro,Retiro lento,15,14,1
+compartida_3,10,R4,retiro,Retiro muy lento,24,24,0
+compartida_3,10,P1,pago,Pago rápido,5,5,0
+compartida_3,10,P2,pago,Pago normal,10,10,0
+compartida_3,10,P3,pago,Pago lento,22,22,0
+compartida_3,10,P4,pago,Pago muy lento,23,23,0
+dedicada_1r_2p,10,R1,retiro,Retiro rápido,36,36,0
+dedicada_1r_2p,10,R2,retiro,Retiro normal,58,58,0
+dedicada_1r_2p,10,R3,retiro,Retiro lento,15,14,1
+dedicada_1r_2p,10,R4,retiro,Retiro muy lento,24,24,0
+dedicada_1r_2p,10,P1,pago,Pago rápido,5,5,0
+dedicada_1r_2p,10,P2,pago,Pago normal,10,10,0
+dedicada_1r_2p,10,P3,pago,Pago lento,22,22,0
+dedicada_1r_2p,10,P4,pago,Pago muy lento,23,23,0
+dedicada_2r_1p,10,R1,retiro,Retiro rápido,36,36,0
+dedicada_2r_1p,10,R2,retiro,Retiro normal,58,58,0
+dedicada_2r_1p,10,R3,retiro,Retiro lento,15,14,1
+dedicada_2r_1p,10,R4,retiro,Retiro muy lento,24,24,0
+dedicada_2r_1p,10,P1,pago,Pago rápido,5,5,0
+dedicada_2r_1p,10,P2,pago,Pago normal,10,10,0
+dedicada_2r_1p,10,P3,pago,Pago lento,22,22,0
+dedicada_2r_1p,10,P4,pago,Pago muy lento,23,23,0
+nueva_2r_2p,10,R1,retiro,Retiro rápido,36,36,0
+nueva_2r_2p,10,R2,retiro,Retiro normal,58,58,0
+nueva_2r_2p,10,R3,retiro,Retiro lento,15,14,1
+nueva_2r_2p,10,R4,retiro,Retiro muy lento,24,24,0
+nueva_2r_2p,10,P1,pago,Pago rápido,5,5,0
+nueva_2r_2p,10,P2,pago,Pago normal,10,10,0
+nueva_2r_2p,10,P3,pago,Pago lento,22,22,0
+nueva_2r_2p,10,P4,pago,Pago muy lento,23,23,0
+compartida_3,11,R1,retiro,Retiro rápido,41,41,0
+compartida_3,11,R2,retiro,Retiro normal,70,70,0
+compartida_3,11,R3,retiro,Retiro lento,23,23,0
+compartida_3,11,R4,retiro,Retiro muy lento,26,26,0
+compartida_3,11,P1,pago,Pago rápido,7,7,0
+compartida_3,11,P2,pago,Pago normal,12,12,0
+compartida_3,11,P3,pago,Pago lento,12,12,0
+compartida_3,11,P4,pago,Pago muy lento,22,22,0
+dedicada_1r_2p,11,R1,retiro,Retiro rápido,41,41,0
+dedicada_1r_2p,11,R2,retiro,Retiro normal,70,70,0
+dedicada_1r_2p,11,R3,retiro,Retiro lento,23,23,0
+dedicada_1r_2p,11,R4,retiro,Retiro muy lento,26,26,0
+dedicada_1r_2p,11,P1,pago,Pago rápido,7,7,0
+dedicada_1r_2p,11,P2,pago,Pago normal,12,12,0
+dedicada_1r_2p,11,P3,pago,Pago lento,12,12,0
+dedicada_1r_2p,11,P4,pago,Pago muy lento,22,22,0
+dedicada_2r_1p,11,R1,retiro,Retiro rápido,41,41,0
+dedicada_2r_1p,11,R2,retiro,Retiro normal,70,70,0
+dedicada_2r_1p,11,R3,retiro,Retiro lento,23,23,0
+dedicada_2r_1p,11,R4,retiro,Retiro muy lento,26,26,0
+dedicada_2r_1p,11,P1,pago,Pago rápido,7,7,0
+dedicada_2r_1p,11,P2,pago,Pago normal,12,12,0
+dedicada_2r_1p,11,P3,pago,Pago lento,12,12,0
+dedicada_2r_1p,11,P4,pago,Pago muy lento,22,22,0
+nueva_2r_2p,11,R1,retiro,Retiro rápido,41,41,0
+nueva_2r_2p,11,R2,retiro,Retiro normal,70,70,0
+nueva_2r_2p,11,R3,retiro,Retiro lento,23,23,0
+nueva_2r_2p,11,R4,retiro,Retiro muy lento,26,26,0
+nueva_2r_2p,11,P1,pago,Pago rápido,7,7,0
+nueva_2r_2p,11,P2,pago,Pago normal,12,12,0
+nueva_2r_2p,11,P3,pago,Pago lento,12,12,0
+nueva_2r_2p,11,P4,pago,Pago muy lento,22,22,0
+compartida_3,12,R1,retiro,Retiro rápido,21,21,0
+compartida_3,12,R2,retiro,Retiro normal,61,61,0
+compartida_3,12,R3,retiro,Retiro lento,19,19,0
+compartida_3,12,R4,retiro,Retiro muy lento,25,25,0
+compartida_3,12,P1,pago,Pago rápido,1,1,0
+compartida_3,12,P2,pago,Pago normal,11,11,0
+compartida_3,12,P3,pago,Pago lento,20,20,0
+compartida_3,12,P4,pago,Pago muy lento,19,18,1
+dedicada_1r_2p,12,R1,retiro,Retiro rápido,21,21,0
+dedicada_1r_2p,12,R2,retiro,Retiro normal,61,61,0
+dedicada_1r_2p,12,R3,retiro,Retiro lento,19,19,0
+dedicada_1r_2p,12,R4,retiro,Retiro muy lento,25,25,0
+dedicada_1r_2p,12,P1,pago,Pago rápido,1,1,0
+dedicada_1r_2p,12,P2,pago,Pago normal,11,11,0
+dedicada_1r_2p,12,P3,pago,Pago lento,20,20,0
+dedicada_1r_2p,12,P4,pago,Pago muy lento,19,18,1
+dedicada_2r_1p,12,R1,retiro,Retiro rápido,21,21,0
+dedicada_2r_1p,12,R2,retiro,Retiro normal,61,61,0
+dedicada_2r_1p,12,R3,retiro,Retiro lento,19,19,0
+dedicada_2r_1p,12,R4,retiro,Retiro muy lento,25,25,0
+dedicada_2r_1p,12,P1,pago,Pago rápido,1,1,0
+dedicada_2r_1p,12,P2,pago,Pago normal,11,11,0
+dedicada_2r_1p,12,P3,pago,Pago lento,20,20,0
+dedicada_2r_1p,12,P4,pago,Pago muy lento,19,18,1
+nueva_2r_2p,12,R1,retiro,Retiro rápido,21,21,0
+nueva_2r_2p,12,R2,retiro,Retiro normal,61,61,0
+nueva_2r_2p,12,R3,retiro,Retiro lento,19,19,0
+nueva_2r_2p,12,R4,retiro,Retiro muy lento,25,25,0
+nueva_2r_2p,12,P1,pago,Pago rápido,1,1,0
+nueva_2r_2p,12,P2,pago,Pago normal,11,11,0
+nueva_2r_2p,12,P3,pago,Pago lento,20,20,0
+nueva_2r_2p,12,P4,pago,Pago muy lento,19,18,1
+compartida_3,13,R1,retiro,Retiro rápido,27,27,0
+compartida_3,13,R2,retiro,Retiro normal,57,57,0
+compartida_3,13,R3,retiro,Retiro lento,27,27,0
+compartida_3,13,R4,retiro,Retiro muy lento,29,29,0
+compartida_3,13,P1,pago,Pago rápido,6,6,0
+compartida_3,13,P2,pago,Pago normal,10,10,0
+compartida_3,13,P3,pago,Pago lento,17,17,0
+compartida_3,13,P4,pago,Pago muy lento,23,23,0
+dedicada_1r_2p,13,R1,retiro,Retiro rápido,27,27,0
+dedicada_1r_2p,13,R2,retiro,Retiro normal,57,57,0
+dedicada_1r_2p,13,R3,retiro,Retiro lento,27,27,0
+dedicada_1r_2p,13,R4,retiro,Retiro muy lento,29,29,0
+dedicada_1r_2p,13,P1,pago,Pago rápido,6,6,0
+dedicada_1r_2p,13,P2,pago,Pago normal,10,10,0
+dedicada_1r_2p,13,P3,pago,Pago lento,17,17,0
+dedicada_1r_2p,13,P4,pago,Pago muy lento,23,23,0
+dedicada_2r_1p,13,R1,retiro,Retiro rápido,27,27,0
+dedicada_2r_1p,13,R2,retiro,Retiro normal,57,57,0
+dedicada_2r_1p,13,R3,retiro,Retiro lento,27,27,0
+dedicada_2r_1p,13,R4,retiro,Retiro muy lento,29,29,0
+dedicada_2r_1p,13,P1,pago,Pago rápido,6,6,0
+dedicada_2r_1p,13,P2,pago,Pago normal,10,10,0
+dedicada_2r_1p,13,P3,pago,Pago lento,17,17,0
+dedicada_2r_1p,13,P4,pago,Pago muy lento,23,23,0
+nueva_2r_2p,13,R1,retiro,Retiro rápido,27,27,0
+nueva_2r_2p,13,R2,retiro,Retiro normal,57,57,0
+nueva_2r_2p,13,R3,retiro,Retiro lento,27,27,0
+nueva_2r_2p,13,R4,retiro,Retiro muy lento,29,29,0
+nueva_2r_2p,13,P1,pago,Pago rápido,6,6,0
+nueva_2r_2p,13,P2,pago,Pago normal,10,10,0
+nueva_2r_2p,13,P3,pago,Pago lento,17,17,0
+nueva_2r_2p,13,P4,pago,Pago muy lento,23,23,0
+compartida_3,14,R1,retiro,Retiro rápido,25,25,0
+compartida_3,14,R2,retiro,Retiro normal,53,53,0
+compartida_3,14,R3,retiro,Retiro lento,19,19,0
+compartida_3,14,R4,retiro,Retiro muy lento,29,29,0
+compartida_3,14,P1,pago,Pago rápido,7,7,0
+compartida_3,14,P2,pago,Pago normal,9,9,0
+compartida_3,14,P3,pago,Pago lento,17,17,0
+compartida_3,14,P4,pago,Pago muy lento,16,16,0
+dedicada_1r_2p,14,R1,retiro,Retiro rápido,25,25,0
+dedicada_1r_2p,14,R2,retiro,Retiro normal,53,53,0
+dedicada_1r_2p,14,R3,retiro,Retiro lento,19,19,0
+dedicada_1r_2p,14,R4,retiro,Retiro muy lento,29,29,0
+dedicada_1r_2p,14,P1,pago,Pago rápido,7,7,0
+dedicada_1r_2p,14,P2,pago,Pago normal,9,9,0
+dedicada_1r_2p,14,P3,pago,Pago lento,17,17,0
+dedicada_1r_2p,14,P4,pago,Pago muy lento,16,16,0
+dedicada_2r_1p,14,R1,retiro,Retiro rápido,25,25,0
+dedicada_2r_1p,14,R2,retiro,Retiro normal,53,53,0
+dedicada_2r_1p,14,R3,retiro,Retiro lento,19,19,0
+dedicada_2r_1p,14,R4,retiro,Retiro muy lento,29,29,0
+dedicada_2r_1p,14,P1,pago,Pago rápido,7,7,0
+dedicada_2r_1p,14,P2,pago,Pago normal,9,9,0
+dedicada_2r_1p,14,P3,pago,Pago lento,17,17,0
+dedicada_2r_1p,14,P4,pago,Pago muy lento,16,16,0
+nueva_2r_2p,14,R1,retiro,Retiro rápido,25,25,0
+nueva_2r_2p,14,R2,retiro,Retiro normal,53,53,0
+nueva_2r_2p,14,R3,retiro,Retiro lento,19,19,0
+nueva_2r_2p,14,R4,retiro,Retiro muy lento,29,29,0
+nueva_2r_2p,14,P1,pago,Pago rápido,7,7,0
+nueva_2r_2p,14,P2,pago,Pago normal,9,9,0
+nueva_2r_2p,14,P3,pago,Pago lento,17,17,0
+nueva_2r_2p,14,P4,pago,Pago muy lento,16,16,0
+compartida_3,15,R1,retiro,Retiro rápido,26,26,0
+compartida_3,15,R2,retiro,Retiro normal,55,55,0
+compartida_3,15,R3,retiro,Retiro lento,27,27,0
+compartida_3,15,R4,retiro,Retiro muy lento,22,22,0
+compartida_3,15,P1,pago,Pago rápido,9,9,0
+compartida_3,15,P2,pago,Pago normal,15,15,0
+compartida_3,15,P3,pago,Pago lento,17,17,0
+compartida_3,15,P4,pago,Pago muy lento,24,23,1
+dedicada_1r_2p,15,R1,retiro,Retiro rápido,26,26,0
+dedicada_1r_2p,15,R2,retiro,Retiro normal,55,53,2
+dedicada_1r_2p,15,R3,retiro,Retiro lento,27,26,1
+dedicada_1r_2p,15,R4,retiro,Retiro muy lento,22,21,1
+dedicada_1r_2p,15,P1,pago,Pago rápido,9,9,0
+dedicada_1r_2p,15,P2,pago,Pago normal,15,15,0
+dedicada_1r_2p,15,P3,pago,Pago lento,17,17,0
+dedicada_1r_2p,15,P4,pago,Pago muy lento,24,23,1
+dedicada_2r_1p,15,R1,retiro,Retiro rápido,26,26,0
+dedicada_2r_1p,15,R2,retiro,Retiro normal,55,55,0
+dedicada_2r_1p,15,R3,retiro,Retiro lento,27,27,0
+dedicada_2r_1p,15,R4,retiro,Retiro muy lento,22,22,0
+dedicada_2r_1p,15,P1,pago,Pago rápido,9,9,0
+dedicada_2r_1p,15,P2,pago,Pago normal,15,15,0
+dedicada_2r_1p,15,P3,pago,Pago lento,17,17,0
+dedicada_2r_1p,15,P4,pago,Pago muy lento,24,23,1
+nueva_2r_2p,15,R1,retiro,Retiro rápido,26,26,0
+nueva_2r_2p,15,R2,retiro,Retiro normal,55,55,0
+nueva_2r_2p,15,R3,retiro,Retiro lento,27,27,0
+nueva_2r_2p,15,R4,retiro,Retiro muy lento,22,22,0
+nueva_2r_2p,15,P1,pago,Pago rápido,9,9,0
+nueva_2r_2p,15,P2,pago,Pago normal,15,15,0
+nueva_2r_2p,15,P3,pago,Pago lento,17,17,0
+nueva_2r_2p,15,P4,pago,Pago muy lento,24,23,1
+compartida_3,16,R1,retiro,Retiro rápido,18,18,0
+compartida_3,16,R2,retiro,Retiro normal,52,52,0
+compartida_3,16,R3,retiro,Retiro lento,24,24,0
+compartida_3,16,R4,retiro,Retiro muy lento,30,30,0
+compartida_3,16,P1,pago,Pago rápido,5,5,0
+compartida_3,16,P2,pago,Pago normal,16,16,0
+compartida_3,16,P3,pago,Pago lento,17,17,0
+compartida_3,16,P4,pago,Pago muy lento,22,22,0
+dedicada_1r_2p,16,R1,retiro,Retiro rápido,18,18,0
+dedicada_1r_2p,16,R2,retiro,Retiro normal,52,52,0
+dedicada_1r_2p,16,R3,retiro,Retiro lento,24,23,1
+dedicada_1r_2p,16,R4,retiro,Retiro muy lento,30,30,0
+dedicada_1r_2p,16,P1,pago,Pago rápido,5,5,0
+dedicada_1r_2p,16,P2,pago,Pago normal,16,16,0
+dedicada_1r_2p,16,P3,pago,Pago lento,17,17,0
+dedicada_1r_2p,16,P4,pago,Pago muy lento,22,22,0
+dedicada_2r_1p,16,R1,retiro,Retiro rápido,18,18,0
+dedicada_2r_1p,16,R2,retiro,Retiro normal,52,52,0
+dedicada_2r_1p,16,R3,retiro,Retiro lento,24,24,0
+dedicada_2r_1p,16,R4,retiro,Retiro muy lento,30,30,0
+dedicada_2r_1p,16,P1,pago,Pago rápido,5,5,0
+dedicada_2r_1p,16,P2,pago,Pago normal,16,16,0
+dedicada_2r_1p,16,P3,pago,Pago lento,17,17,0
+dedicada_2r_1p,16,P4,pago,Pago muy lento,22,22,0
+nueva_2r_2p,16,R1,retiro,Retiro rápido,18,18,0
+nueva_2r_2p,16,R2,retiro,Retiro normal,52,52,0
+nueva_2r_2p,16,R3,retiro,Retiro lento,24,24,0
+nueva_2r_2p,16,R4,retiro,Retiro muy lento,30,30,0
+nueva_2r_2p,16,P1,pago,Pago rápido,5,5,0
+nueva_2r_2p,16,P2,pago,Pago normal,16,16,0
+nueva_2r_2p,16,P3,pago,Pago lento,17,17,0
+nueva_2r_2p,16,P4,pago,Pago muy lento,22,22,0
+compartida_3,17,R1,retiro,Retiro rápido,51,51,0
+compartida_3,17,R2,retiro,Retiro normal,67,67,0
+compartida_3,17,R3,retiro,Retiro lento,17,17,0
+compartida_3,17,R4,retiro,Retiro muy lento,32,32,0
+compartida_3,17,P1,pago,Pago rápido,13,13,0
+compartida_3,17,P2,pago,Pago normal,14,14,0
+compartida_3,17,P3,pago,Pago lento,21,21,0
+compartida_3,17,P4,pago,Pago muy lento,33,33,0
+dedicada_1r_2p,17,R1,retiro,Retiro rápido,51,48,3
+dedicada_1r_2p,17,R2,retiro,Retiro normal,67,67,0
+dedicada_1r_2p,17,R3,retiro,Retiro lento,17,17,0
+dedicada_1r_2p,17,R4,retiro,Retiro muy lento,32,31,1
+dedicada_1r_2p,17,P1,pago,Pago rápido,13,13,0
+dedicada_1r_2p,17,P2,pago,Pago normal,14,14,0
+dedicada_1r_2p,17,P3,pago,Pago lento,21,21,0
+dedicada_1r_2p,17,P4,pago,Pago muy lento,33,33,0
+dedicada_2r_1p,17,R1,retiro,Retiro rápido,51,51,0
+dedicada_2r_1p,17,R2,retiro,Retiro normal,67,67,0
+dedicada_2r_1p,17,R3,retiro,Retiro lento,17,17,0
+dedicada_2r_1p,17,R4,retiro,Retiro muy lento,32,32,0
+dedicada_2r_1p,17,P1,pago,Pago rápido,13,13,0
+dedicada_2r_1p,17,P2,pago,Pago normal,14,14,0
+dedicada_2r_1p,17,P3,pago,Pago lento,21,21,0
+dedicada_2r_1p,17,P4,pago,Pago muy lento,33,33,0
+nueva_2r_2p,17,R1,retiro,Retiro rápido,51,51,0
+nueva_2r_2p,17,R2,retiro,Retiro normal,67,67,0
+nueva_2r_2p,17,R3,retiro,Retiro lento,17,17,0
+nueva_2r_2p,17,R4,retiro,Retiro muy lento,32,32,0
+nueva_2r_2p,17,P1,pago,Pago rápido,13,13,0
+nueva_2r_2p,17,P2,pago,Pago normal,14,14,0
+nueva_2r_2p,17,P3,pago,Pago lento,21,21,0
+nueva_2r_2p,17,P4,pago,Pago muy lento,33,33,0
+compartida_3,18,R1,retiro,Retiro rápido,34,34,0
+compartida_3,18,R2,retiro,Retiro normal,61,61,0
+compartida_3,18,R3,retiro,Retiro lento,29,29,0
+compartida_3,18,R4,retiro,Retiro muy lento,31,31,0
+compartida_3,18,P1,pago,Pago rápido,7,7,0
+compartida_3,18,P2,pago,Pago normal,12,12,0
+compartida_3,18,P3,pago,Pago lento,15,15,0
+compartida_3,18,P4,pago,Pago muy lento,26,26,0
+dedicada_1r_2p,18,R1,retiro,Retiro rápido,34,33,1
+dedicada_1r_2p,18,R2,retiro,Retiro normal,61,60,1
+dedicada_1r_2p,18,R3,retiro,Retiro lento,29,26,3
+dedicada_1r_2p,18,R4,retiro,Retiro muy lento,31,30,1
+dedicada_1r_2p,18,P1,pago,Pago rápido,7,7,0
+dedicada_1r_2p,18,P2,pago,Pago normal,12,12,0
+dedicada_1r_2p,18,P3,pago,Pago lento,15,15,0
+dedicada_1r_2p,18,P4,pago,Pago muy lento,26,26,0
+dedicada_2r_1p,18,R1,retiro,Retiro rápido,34,34,0
+dedicada_2r_1p,18,R2,retiro,Retiro normal,61,61,0
+dedicada_2r_1p,18,R3,retiro,Retiro lento,29,29,0
+dedicada_2r_1p,18,R4,retiro,Retiro muy lento,31,31,0
+dedicada_2r_1p,18,P1,pago,Pago rápido,7,7,0
+dedicada_2r_1p,18,P2,pago,Pago normal,12,11,1
+dedicada_2r_1p,18,P3,pago,Pago lento,15,15,0
+dedicada_2r_1p,18,P4,pago,Pago muy lento,26,25,1
+nueva_2r_2p,18,R1,retiro,Retiro rápido,34,34,0
+nueva_2r_2p,18,R2,retiro,Retiro normal,61,61,0
+nueva_2r_2p,18,R3,retiro,Retiro lento,29,29,0
+nueva_2r_2p,18,R4,retiro,Retiro muy lento,31,31,0
+nueva_2r_2p,18,P1,pago,Pago rápido,7,7,0
+nueva_2r_2p,18,P2,pago,Pago normal,12,12,0
+nueva_2r_2p,18,P3,pago,Pago lento,15,15,0
+nueva_2r_2p,18,P4,pago,Pago muy lento,26,26,0
+compartida_3,19,R1,retiro,Retiro rápido,26,26,0
+compartida_3,19,R2,retiro,Retiro normal,55,55,0
+compartida_3,19,R3,retiro,Retiro lento,28,28,0
+compartida_3,19,R4,retiro,Retiro muy lento,27,27,0
+compartida_3,19,P1,pago,Pago rápido,4,4,0
+compartida_3,19,P2,pago,Pago normal,6,6,0
+compartida_3,19,P3,pago,Pago lento,21,21,0
+compartida_3,19,P4,pago,Pago muy lento,23,23,0
+dedicada_1r_2p,19,R1,retiro,Retiro rápido,26,25,1
+dedicada_1r_2p,19,R2,retiro,Retiro normal,55,53,2
+dedicada_1r_2p,19,R3,retiro,Retiro lento,28,27,1
+dedicada_1r_2p,19,R4,retiro,Retiro muy lento,27,27,0
+dedicada_1r_2p,19,P1,pago,Pago rápido,4,4,0
+dedicada_1r_2p,19,P2,pago,Pago normal,6,6,0
+dedicada_1r_2p,19,P3,pago,Pago lento,21,21,0
+dedicada_1r_2p,19,P4,pago,Pago muy lento,23,23,0
+dedicada_2r_1p,19,R1,retiro,Retiro rápido,26,26,0
+dedicada_2r_1p,19,R2,retiro,Retiro normal,55,55,0
+dedicada_2r_1p,19,R3,retiro,Retiro lento,28,28,0
+dedicada_2r_1p,19,R4,retiro,Retiro muy lento,27,27,0
+dedicada_2r_1p,19,P1,pago,Pago rápido,4,4,0
+dedicada_2r_1p,19,P2,pago,Pago normal,6,6,0
+dedicada_2r_1p,19,P3,pago,Pago lento,21,19,2
+dedicada_2r_1p,19,P4,pago,Pago muy lento,23,21,2
+nueva_2r_2p,19,R1,retiro,Retiro rápido,26,26,0
+nueva_2r_2p,19,R2,retiro,Retiro normal,55,55,0
+nueva_2r_2p,19,R3,retiro,Retiro lento,28,28,0
+nueva_2r_2p,19,R4,retiro,Retiro muy lento,27,27,0
+nueva_2r_2p,19,P1,pago,Pago rápido,4,4,0
+nueva_2r_2p,19,P2,pago,Pago normal,6,6,0
+nueva_2r_2p,19,P3,pago,Pago lento,21,21,0
+nueva_2r_2p,19,P4,pago,Pago muy lento,23,23,0
+compartida_3,20,R1,retiro,Retiro rápido,30,30,0
+compartida_3,20,R2,retiro,Retiro normal,47,47,0
+compartida_3,20,R3,retiro,Retiro lento,19,19,0
+compartida_3,20,R4,retiro,Retiro muy lento,33,33,0
+compartida_3,20,P1,pago,Pago rápido,7,7,0
+compartida_3,20,P2,pago,Pago normal,8,8,0
+compartida_3,20,P3,pago,Pago lento,23,23,0
+compartida_3,20,P4,pago,Pago muy lento,28,28,0
+dedicada_1r_2p,20,R1,retiro,Retiro rápido,30,30,0
+dedicada_1r_2p,20,R2,retiro,Retiro normal,47,47,0
+dedicada_1r_2p,20,R3,retiro,Retiro lento,19,19,0
+dedicada_1r_2p,20,R4,retiro,Retiro muy lento,33,33,0
+dedicada_1r_2p,20,P1,pago,Pago rápido,7,7,0
+dedicada_1r_2p,20,P2,pago,Pago normal,8,8,0
+dedicada_1r_2p,20,P3,pago,Pago lento,23,23,0
+dedicada_1r_2p,20,P4,pago,Pago muy lento,28,28,0
+dedicada_2r_1p,20,R1,retiro,Retiro rápido,30,30,0
+dedicada_2r_1p,20,R2,retiro,Retiro normal,47,47,0
+dedicada_2r_1p,20,R3,retiro,Retiro lento,19,19,0
+dedicada_2r_1p,20,R4,retiro,Retiro muy lento,33,33,0
+dedicada_2r_1p,20,P1,pago,Pago rápido,7,7,0
+dedicada_2r_1p,20,P2,pago,Pago normal,8,8,0
+dedicada_2r_1p,20,P3,pago,Pago lento,23,22,1
+dedicada_2r_1p,20,P4,pago,Pago muy lento,28,28,0
+nueva_2r_2p,20,R1,retiro,Retiro rápido,30,30,0
+nueva_2r_2p,20,R2,retiro,Retiro normal,47,47,0
+nueva_2r_2p,20,R3,retiro,Retiro lento,19,19,0
+nueva_2r_2p,20,R4,retiro,Retiro muy lento,33,33,0
+nueva_2r_2p,20,P1,pago,Pago rápido,7,7,0
+nueva_2r_2p,20,P2,pago,Pago normal,8,8,0
+nueva_2r_2p,20,P3,pago,Pago lento,23,23,0
+nueva_2r_2p,20,P4,pago,Pago muy lento,28,28,0
+compartida_3,21,R1,retiro,Retiro rápido,31,31,0
+compartida_3,21,R2,retiro,Retiro normal,47,47,0
+compartida_3,21,R3,retiro,Retiro lento,30,30,0
+compartida_3,21,R4,retiro,Retiro muy lento,29,29,0
+compartida_3,21,P1,pago,Pago rápido,6,6,0
+compartida_3,21,P2,pago,Pago normal,7,7,0
+compartida_3,21,P3,pago,Pago lento,23,23,0
+compartida_3,21,P4,pago,Pago muy lento,18,18,0
+dedicada_1r_2p,21,R1,retiro,Retiro rápido,31,31,0
+dedicada_1r_2p,21,R2,retiro,Retiro normal,47,47,0
+dedicada_1r_2p,21,R3,retiro,Retiro lento,30,30,0
+dedicada_1r_2p,21,R4,retiro,Retiro muy lento,29,29,0
+dedicada_1r_2p,21,P1,pago,Pago rápido,6,6,0
+dedicada_1r_2p,21,P2,pago,Pago normal,7,7,0
+dedicada_1r_2p,21,P3,pago,Pago lento,23,23,0
+dedicada_1r_2p,21,P4,pago,Pago muy lento,18,18,0
+dedicada_2r_1p,21,R1,retiro,Retiro rápido,31,31,0
+dedicada_2r_1p,21,R2,retiro,Retiro normal,47,47,0
+dedicada_2r_1p,21,R3,retiro,Retiro lento,30,30,0
+dedicada_2r_1p,21,R4,retiro,Retiro muy lento,29,29,0
+dedicada_2r_1p,21,P1,pago,Pago rápido,6,6,0
+dedicada_2r_1p,21,P2,pago,Pago normal,7,7,0
+dedicada_2r_1p,21,P3,pago,Pago lento,23,23,0
+dedicada_2r_1p,21,P4,pago,Pago muy lento,18,18,0
+nueva_2r_2p,21,R1,retiro,Retiro rápido,31,31,0
+nueva_2r_2p,21,R2,retiro,Retiro normal,47,47,0
+nueva_2r_2p,21,R3,retiro,Retiro lento,30,30,0
+nueva_2r_2p,21,R4,retiro,Retiro muy lento,29,29,0
+nueva_2r_2p,21,P1,pago,Pago rápido,6,6,0
+nueva_2r_2p,21,P2,pago,Pago normal,7,7,0
+nueva_2r_2p,21,P3,pago,Pago lento,23,23,0
+nueva_2r_2p,21,P4,pago,Pago muy lento,18,18,0
+compartida_3,22,R1,retiro,Retiro rápido,48,48,0
+compartida_3,22,R2,retiro,Retiro normal,60,60,0
+compartida_3,22,R3,retiro,Retiro lento,24,24,0
+compartida_3,22,R4,retiro,Retiro muy lento,31,31,0
+compartida_3,22,P1,pago,Pago rápido,9,9,0
+compartida_3,22,P2,pago,Pago normal,13,13,0
+compartida_3,22,P3,pago,Pago lento,18,18,0
+compartida_3,22,P4,pago,Pago muy lento,21,21,0
+dedicada_1r_2p,22,R1,retiro,Retiro rápido,48,48,0
+dedicada_1r_2p,22,R2,retiro,Retiro normal,60,60,0
+dedicada_1r_2p,22,R3,retiro,Retiro lento,24,24,0
+dedicada_1r_2p,22,R4,retiro,Retiro muy lento,31,31,0
+dedicada_1r_2p,22,P1,pago,Pago rápido,9,9,0
+dedicada_1r_2p,22,P2,pago,Pago normal,13,13,0
+dedicada_1r_2p,22,P3,pago,Pago lento,18,18,0
+dedicada_1r_2p,22,P4,pago,Pago muy lento,21,21,0
+dedicada_2r_1p,22,R1,retiro,Retiro rápido,48,48,0
+dedicada_2r_1p,22,R2,retiro,Retiro normal,60,60,0
+dedicada_2r_1p,22,R3,retiro,Retiro lento,24,24,0
+dedicada_2r_1p,22,R4,retiro,Retiro muy lento,31,31,0
+dedicada_2r_1p,22,P1,pago,Pago rápido,9,9,0
+dedicada_2r_1p,22,P2,pago,Pago normal,13,13,0
+dedicada_2r_1p,22,P3,pago,Pago lento,18,18,0
+dedicada_2r_1p,22,P4,pago,Pago muy lento,21,21,0
+nueva_2r_2p,22,R1,retiro,Retiro rápido,48,48,0
+nueva_2r_2p,22,R2,retiro,Retiro normal,60,60,0
+nueva_2r_2p,22,R3,retiro,Retiro lento,24,24,0
+nueva_2r_2p,22,R4,retiro,Retiro muy lento,31,31,0
+nueva_2r_2p,22,P1,pago,Pago rápido,9,9,0
+nueva_2r_2p,22,P2,pago,Pago normal,13,13,0
+nueva_2r_2p,22,P3,pago,Pago lento,18,18,0
+nueva_2r_2p,22,P4,pago,Pago muy lento,21,21,0
+compartida_3,23,R1,retiro,Retiro rápido,38,38,0
+compartida_3,23,R2,retiro,Retiro normal,58,58,0
+compartida_3,23,R3,retiro,Retiro lento,28,28,0
+compartida_3,23,R4,retiro,Retiro muy lento,25,24,1
+compartida_3,23,P1,pago,Pago rápido,6,5,1
+compartida_3,23,P2,pago,Pago normal,3,3,0
+compartida_3,23,P3,pago,Pago lento,20,20,0
+compartida_3,23,P4,pago,Pago muy lento,32,32,0
+dedicada_1r_2p,23,R1,retiro,Retiro rápido,38,38,0
+dedicada_1r_2p,23,R2,retiro,Retiro normal,58,58,0
+dedicada_1r_2p,23,R3,retiro,Retiro lento,28,27,1
+dedicada_1r_2p,23,R4,retiro,Retiro muy lento,25,24,1
+dedicada_1r_2p,23,P1,pago,Pago rápido,6,5,1
+dedicada_1r_2p,23,P2,pago,Pago normal,3,3,0
+dedicada_1r_2p,23,P3,pago,Pago lento,20,20,0
+dedicada_1r_2p,23,P4,pago,Pago muy lento,32,32,0
+dedicada_2r_1p,23,R1,retiro,Retiro rápido,38,38,0
+dedicada_2r_1p,23,R2,retiro,Retiro normal,58,58,0
+dedicada_2r_1p,23,R3,retiro,Retiro lento,28,28,0
+dedicada_2r_1p,23,R4,retiro,Retiro muy lento,25,24,1
+dedicada_2r_1p,23,P1,pago,Pago rápido,6,5,1
+dedicada_2r_1p,23,P2,pago,Pago normal,3,3,0
+dedicada_2r_1p,23,P3,pago,Pago lento,20,19,1
+dedicada_2r_1p,23,P4,pago,Pago muy lento,32,32,0
+nueva_2r_2p,23,R1,retiro,Retiro rápido,38,38,0
+nueva_2r_2p,23,R2,retiro,Retiro normal,58,58,0
+nueva_2r_2p,23,R3,retiro,Retiro lento,28,28,0
+nueva_2r_2p,23,R4,retiro,Retiro muy lento,25,24,1
+nueva_2r_2p,23,P1,pago,Pago rápido,6,5,1
+nueva_2r_2p,23,P2,pago,Pago normal,3,3,0
+nueva_2r_2p,23,P3,pago,Pago lento,20,20,0
+nueva_2r_2p,23,P4,pago,Pago muy lento,32,32,0
+compartida_3,24,R1,retiro,Retiro rápido,37,37,0
+compartida_3,24,R2,retiro,Retiro normal,58,58,0
+compartida_3,24,R3,retiro,Retiro lento,21,20,1
+compartida_3,24,R4,retiro,Retiro muy lento,29,29,0
+compartida_3,24,P1,pago,Pago rápido,3,3,0
+compartida_3,24,P2,pago,Pago normal,18,18,0
+compartida_3,24,P3,pago,Pago lento,19,19,0
+compartida_3,24,P4,pago,Pago muy lento,27,25,2
+dedicada_1r_2p,24,R1,retiro,Retiro rápido,37,36,1
+dedicada_1r_2p,24,R2,retiro,Retiro normal,58,55,3
+dedicada_1r_2p,24,R3,retiro,Retiro lento,21,19,2
+dedicada_1r_2p,24,R4,retiro,Retiro muy lento,29,29,0
+dedicada_1r_2p,24,P1,pago,Pago rápido,3,3,0
+dedicada_1r_2p,24,P2,pago,Pago normal,18,18,0
+dedicada_1r_2p,24,P3,pago,Pago lento,19,19,0
+dedicada_1r_2p,24,P4,pago,Pago muy lento,27,25,2
+dedicada_2r_1p,24,R1,retiro,Retiro rápido,37,37,0
+dedicada_2r_1p,24,R2,retiro,Retiro normal,58,58,0
+dedicada_2r_1p,24,R3,retiro,Retiro lento,21,20,1
+dedicada_2r_1p,24,R4,retiro,Retiro muy lento,29,29,0
+dedicada_2r_1p,24,P1,pago,Pago rápido,3,3,0
+dedicada_2r_1p,24,P2,pago,Pago normal,18,18,0
+dedicada_2r_1p,24,P3,pago,Pago lento,19,19,0
+dedicada_2r_1p,24,P4,pago,Pago muy lento,27,25,2
+nueva_2r_2p,24,R1,retiro,Retiro rápido,37,37,0
+nueva_2r_2p,24,R2,retiro,Retiro normal,58,58,0
+nueva_2r_2p,24,R3,retiro,Retiro lento,21,20,1
+nueva_2r_2p,24,R4,retiro,Retiro muy lento,29,29,0
+nueva_2r_2p,24,P1,pago,Pago rápido,3,3,0
+nueva_2r_2p,24,P2,pago,Pago normal,18,18,0
+nueva_2r_2p,24,P3,pago,Pago lento,19,19,0
+nueva_2r_2p,24,P4,pago,Pago muy lento,27,25,2
+compartida_3,25,R1,retiro,Retiro rápido,35,35,0
+compartida_3,25,R2,retiro,Retiro normal,53,53,0
+compartida_3,25,R3,retiro,Retiro lento,16,16,0
+compartida_3,25,R4,retiro,Retiro muy lento,38,38,0
+compartida_3,25,P1,pago,Pago rápido,3,3,0
+compartida_3,25,P2,pago,Pago normal,11,11,0
+compartida_3,25,P3,pago,Pago lento,19,19,0
+compartida_3,25,P4,pago,Pago muy lento,28,28,0
+dedicada_1r_2p,25,R1,retiro,Retiro rápido,35,34,1
+dedicada_1r_2p,25,R2,retiro,Retiro normal,53,51,2
+dedicada_1r_2p,25,R3,retiro,Retiro lento,16,16,0
+dedicada_1r_2p,25,R4,retiro,Retiro muy lento,38,38,0
+dedicada_1r_2p,25,P1,pago,Pago rápido,3,3,0
+dedicada_1r_2p,25,P2,pago,Pago normal,11,11,0
+dedicada_1r_2p,25,P3,pago,Pago lento,19,19,0
+dedicada_1r_2p,25,P4,pago,Pago muy lento,28,28,0
+dedicada_2r_1p,25,R1,retiro,Retiro rápido,35,35,0
+dedicada_2r_1p,25,R2,retiro,Retiro normal,53,53,0
+dedicada_2r_1p,25,R3,retiro,Retiro lento,16,16,0
+dedicada_2r_1p,25,R4,retiro,Retiro muy lento,38,38,0
+dedicada_2r_1p,25,P1,pago,Pago rápido,3,3,0
+dedicada_2r_1p,25,P2,pago,Pago normal,11,11,0
+dedicada_2r_1p,25,P3,pago,Pago lento,19,19,0
+dedicada_2r_1p,25,P4,pago,Pago muy lento,28,28,0
+nueva_2r_2p,25,R1,retiro,Retiro rápido,35,35,0
+nueva_2r_2p,25,R2,retiro,Retiro normal,53,53,0
+nueva_2r_2p,25,R3,retiro,Retiro lento,16,16,0
+nueva_2r_2p,25,R4,retiro,Retiro muy lento,38,38,0
+nueva_2r_2p,25,P1,pago,Pago rápido,3,3,0
+nueva_2r_2p,25,P2,pago,Pago normal,11,11,0
+nueva_2r_2p,25,P3,pago,Pago lento,19,19,0
+nueva_2r_2p,25,P4,pago,Pago muy lento,28,28,0
+compartida_3,26,R1,retiro,Retiro rápido,23,23,0
+compartida_3,26,R2,retiro,Retiro normal,63,63,0
+compartida_3,26,R3,retiro,Retiro lento,20,20,0
+compartida_3,26,R4,retiro,Retiro muy lento,34,34,0
+compartida_3,26,P1,pago,Pago rápido,7,7,0
+compartida_3,26,P2,pago,Pago normal,5,5,0
+compartida_3,26,P3,pago,Pago lento,20,20,0
+compartida_3,26,P4,pago,Pago muy lento,26,26,0
+dedicada_1r_2p,26,R1,retiro,Retiro rápido,23,23,0
+dedicada_1r_2p,26,R2,retiro,Retiro normal,63,63,0
+dedicada_1r_2p,26,R3,retiro,Retiro lento,20,20,0
+dedicada_1r_2p,26,R4,retiro,Retiro muy lento,34,34,0
+dedicada_1r_2p,26,P1,pago,Pago rápido,7,7,0
+dedicada_1r_2p,26,P2,pago,Pago normal,5,5,0
+dedicada_1r_2p,26,P3,pago,Pago lento,20,20,0
+dedicada_1r_2p,26,P4,pago,Pago muy lento,26,26,0
+dedicada_2r_1p,26,R1,retiro,Retiro rápido,23,23,0
+dedicada_2r_1p,26,R2,retiro,Retiro normal,63,63,0
+dedicada_2r_1p,26,R3,retiro,Retiro lento,20,20,0
+dedicada_2r_1p,26,R4,retiro,Retiro muy lento,34,34,0
+dedicada_2r_1p,26,P1,pago,Pago rápido,7,7,0
+dedicada_2r_1p,26,P2,pago,Pago normal,5,5,0
+dedicada_2r_1p,26,P3,pago,Pago lento,20,17,3
+dedicada_2r_1p,26,P4,pago,Pago muy lento,26,26,0
+nueva_2r_2p,26,R1,retiro,Retiro rápido,23,23,0
+nueva_2r_2p,26,R2,retiro,Retiro normal,63,63,0
+nueva_2r_2p,26,R3,retiro,Retiro lento,20,20,0
+nueva_2r_2p,26,R4,retiro,Retiro muy lento,34,34,0
+nueva_2r_2p,26,P1,pago,Pago rápido,7,7,0
+nueva_2r_2p,26,P2,pago,Pago normal,5,5,0
+nueva_2r_2p,26,P3,pago,Pago lento,20,20,0
+nueva_2r_2p,26,P4,pago,Pago muy lento,26,26,0
+compartida_3,27,R1,retiro,Retiro rápido,26,26,0
+compartida_3,27,R2,retiro,Retiro normal,51,51,0
+compartida_3,27,R3,retiro,Retiro lento,25,25,0
+compartida_3,27,R4,retiro,Retiro muy lento,18,18,0
+compartida_3,27,P1,pago,Pago rápido,7,7,0
+compartida_3,27,P2,pago,Pago normal,8,8,0
+compartida_3,27,P3,pago,Pago lento,12,12,0
+compartida_3,27,P4,pago,Pago muy lento,24,23,1
+dedicada_1r_2p,27,R1,retiro,Retiro rápido,26,26,0
+dedicada_1r_2p,27,R2,retiro,Retiro normal,51,49,2
+dedicada_1r_2p,27,R3,retiro,Retiro lento,25,25,0
+dedicada_1r_2p,27,R4,retiro,Retiro muy lento,18,18,0
+dedicada_1r_2p,27,P1,pago,Pago rápido,7,7,0
+dedicada_1r_2p,27,P2,pago,Pago normal,8,8,0
+dedicada_1r_2p,27,P3,pago,Pago lento,12,12,0
+dedicada_1r_2p,27,P4,pago,Pago muy lento,24,24,0
+dedicada_2r_1p,27,R1,retiro,Retiro rápido,26,26,0
+dedicada_2r_1p,27,R2,retiro,Retiro normal,51,50,1
+dedicada_2r_1p,27,R3,retiro,Retiro lento,25,25,0
+dedicada_2r_1p,27,R4,retiro,Retiro muy lento,18,18,0
+dedicada_2r_1p,27,P1,pago,Pago rápido,7,7,0
+dedicada_2r_1p,27,P2,pago,Pago normal,8,8,0
+dedicada_2r_1p,27,P3,pago,Pago lento,12,12,0
+dedicada_2r_1p,27,P4,pago,Pago muy lento,24,24,0
+nueva_2r_2p,27,R1,retiro,Retiro rápido,26,26,0
+nueva_2r_2p,27,R2,retiro,Retiro normal,51,50,1
+nueva_2r_2p,27,R3,retiro,Retiro lento,25,25,0
+nueva_2r_2p,27,R4,retiro,Retiro muy lento,18,18,0
+nueva_2r_2p,27,P1,pago,Pago rápido,7,7,0
+nueva_2r_2p,27,P2,pago,Pago normal,8,8,0
+nueva_2r_2p,27,P3,pago,Pago lento,12,12,0
+nueva_2r_2p,27,P4,pago,Pago muy lento,24,24,0
+compartida_3,28,R1,retiro,Retiro rápido,39,39,0
+compartida_3,28,R2,retiro,Retiro normal,55,55,0
+compartida_3,28,R3,retiro,Retiro lento,23,22,1
+compartida_3,28,R4,retiro,Retiro muy lento,29,28,1
+compartida_3,28,P1,pago,Pago rápido,7,7,0
+compartida_3,28,P2,pago,Pago normal,11,11,0
+compartida_3,28,P3,pago,Pago lento,24,23,1
+compartida_3,28,P4,pago,Pago muy lento,29,29,0
+dedicada_1r_2p,28,R1,retiro,Retiro rápido,39,39,0
+dedicada_1r_2p,28,R2,retiro,Retiro normal,55,54,1
+dedicada_1r_2p,28,R3,retiro,Retiro lento,23,22,1
+dedicada_1r_2p,28,R4,retiro,Retiro muy lento,29,28,1
+dedicada_1r_2p,28,P1,pago,Pago rápido,7,7,0
+dedicada_1r_2p,28,P2,pago,Pago normal,11,11,0
+dedicada_1r_2p,28,P3,pago,Pago lento,24,23,1
+dedicada_1r_2p,28,P4,pago,Pago muy lento,29,29,0
+dedicada_2r_1p,28,R1,retiro,Retiro rápido,39,39,0
+dedicada_2r_1p,28,R2,retiro,Retiro normal,55,54,1
+dedicada_2r_1p,28,R3,retiro,Retiro lento,23,22,1
+dedicada_2r_1p,28,R4,retiro,Retiro muy lento,29,28,1
+dedicada_2r_1p,28,P1,pago,Pago rápido,7,5,2
+dedicada_2r_1p,28,P2,pago,Pago normal,11,11,0
+dedicada_2r_1p,28,P3,pago,Pago lento,24,21,3
+dedicada_2r_1p,28,P4,pago,Pago muy lento,29,27,2
+nueva_2r_2p,28,R1,retiro,Retiro rápido,39,39,0
+nueva_2r_2p,28,R2,retiro,Retiro normal,55,54,1
+nueva_2r_2p,28,R3,retiro,Retiro lento,23,22,1
+nueva_2r_2p,28,R4,retiro,Retiro muy lento,29,28,1
+nueva_2r_2p,28,P1,pago,Pago rápido,7,7,0
+nueva_2r_2p,28,P2,pago,Pago normal,11,11,0
+nueva_2r_2p,28,P3,pago,Pago lento,24,23,1
+nueva_2r_2p,28,P4,pago,Pago muy lento,29,29,0
+compartida_3,29,R1,retiro,Retiro rápido,25,25,0
+compartida_3,29,R2,retiro,Retiro normal,56,56,0
+compartida_3,29,R3,retiro,Retiro lento,25,25,0
+compartida_3,29,R4,retiro,Retiro muy lento,21,21,0
+compartida_3,29,P1,pago,Pago rápido,6,6,0
+compartida_3,29,P2,pago,Pago normal,13,13,0
+compartida_3,29,P3,pago,Pago lento,12,11,1
+compartida_3,29,P4,pago,Pago muy lento,20,20,0
+dedicada_1r_2p,29,R1,retiro,Retiro rápido,25,25,0
+dedicada_1r_2p,29,R2,retiro,Retiro normal,56,56,0
+dedicada_1r_2p,29,R3,retiro,Retiro lento,25,24,1
+dedicada_1r_2p,29,R4,retiro,Retiro muy lento,21,21,0
+dedicada_1r_2p,29,P1,pago,Pago rápido,6,6,0
+dedicada_1r_2p,29,P2,pago,Pago normal,13,13,0
+dedicada_1r_2p,29,P3,pago,Pago lento,12,11,1
+dedicada_1r_2p,29,P4,pago,Pago muy lento,20,20,0
+dedicada_2r_1p,29,R1,retiro,Retiro rápido,25,25,0
+dedicada_2r_1p,29,R2,retiro,Retiro normal,56,56,0
+dedicada_2r_1p,29,R3,retiro,Retiro lento,25,25,0
+dedicada_2r_1p,29,R4,retiro,Retiro muy lento,21,21,0
+dedicada_2r_1p,29,P1,pago,Pago rápido,6,6,0
+dedicada_2r_1p,29,P2,pago,Pago normal,13,13,0
+dedicada_2r_1p,29,P3,pago,Pago lento,12,11,1
+dedicada_2r_1p,29,P4,pago,Pago muy lento,20,20,0
+nueva_2r_2p,29,R1,retiro,Retiro rápido,25,25,0
+nueva_2r_2p,29,R2,retiro,Retiro normal,56,56,0
+nueva_2r_2p,29,R3,retiro,Retiro lento,25,25,0
+nueva_2r_2p,29,R4,retiro,Retiro muy lento,21,21,0
+nueva_2r_2p,29,P1,pago,Pago rápido,6,6,0
+nueva_2r_2p,29,P2,pago,Pago normal,13,13,0
+nueva_2r_2p,29,P3,pago,Pago lento,12,11,1
+nueva_2r_2p,29,P4,pago,Pago muy lento,20,20,0
+compartida_3,30,R1,retiro,Retiro rápido,29,29,0
+compartida_3,30,R2,retiro,Retiro normal,58,58,0
+compartida_3,30,R3,retiro,Retiro lento,28,28,0
+compartida_3,30,R4,retiro,Retiro muy lento,30,29,1
+compartida_3,30,P1,pago,Pago rápido,10,10,0
+compartida_3,30,P2,pago,Pago normal,9,9,0
+compartida_3,30,P3,pago,Pago lento,17,17,0
+compartida_3,30,P4,pago,Pago muy lento,18,18,0
+dedicada_1r_2p,30,R1,retiro,Retiro rápido,29,29,0
+dedicada_1r_2p,30,R2,retiro,Retiro normal,58,58,0
+dedicada_1r_2p,30,R3,retiro,Retiro lento,28,28,0
+dedicada_1r_2p,30,R4,retiro,Retiro muy lento,30,29,1
+dedicada_1r_2p,30,P1,pago,Pago rápido,10,10,0
+dedicada_1r_2p,30,P2,pago,Pago normal,9,9,0
+dedicada_1r_2p,30,P3,pago,Pago lento,17,17,0
+dedicada_1r_2p,30,P4,pago,Pago muy lento,18,18,0
+dedicada_2r_1p,30,R1,retiro,Retiro rápido,29,29,0
+dedicada_2r_1p,30,R2,retiro,Retiro normal,58,58,0
+dedicada_2r_1p,30,R3,retiro,Retiro lento,28,28,0
+dedicada_2r_1p,30,R4,retiro,Retiro muy lento,30,29,1
+dedicada_2r_1p,30,P1,pago,Pago rápido,10,10,0
+dedicada_2r_1p,30,P2,pago,Pago normal,9,8,1
+dedicada_2r_1p,30,P3,pago,Pago lento,17,16,1
+dedicada_2r_1p,30,P4,pago,Pago muy lento,18,18,0
+nueva_2r_2p,30,R1,retiro,Retiro rápido,29,29,0
+nueva_2r_2p,30,R2,retiro,Retiro normal,58,58,0
+nueva_2r_2p,30,R3,retiro,Retiro lento,28,28,0
+nueva_2r_2p,30,R4,retiro,Retiro muy lento,30,29,1
+nueva_2r_2p,30,P1,pago,Pago rápido,10,10,0
+nueva_2r_2p,30,P2,pago,Pago normal,9,9,0
+nueva_2r_2p,30,P3,pago,Pago lento,17,17,0
+nueva_2r_2p,30,P4,pago,Pago muy lento,18,18,0

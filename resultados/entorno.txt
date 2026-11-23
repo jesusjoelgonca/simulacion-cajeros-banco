@@ -1,0 +1,7 @@
+python=3.12.10
+numpy=2.4.6
+pandas=2.3.3
+scipy=1.17.1
+t_critico_95_df29=2.045230
+replicas=30
+semilla_base=20261122

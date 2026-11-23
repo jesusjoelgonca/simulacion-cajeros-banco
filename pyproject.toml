@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cajero-banco"
+version = "1.0.0"
+description = "Simulación M/M/1 de cajas bancarias para la actividad AD2-M3"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { file = "LICENSE" }
+authors = [{ name = "Jesus Gonzalez" }]
+dependencies = [
+    "numpy>=2.0",
+    "pandas>=2.2",
+    "scipy>=1.13",
+]
+
+[project.optional-dependencies]
+figuras = ["matplotlib>=3.9"]
+pruebas = ["pytest>=8.0"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,11 @@
+{
+  "replicas": 30,
+  "semilla_base": 20261122,
+  "minutos_por_replica": 480.0,
+  "tasa_llegada_global_por_minuto": 0.5073333333333333,
+  "servicio_medio_global_minutos": 3.198,
+  "carga_ofrecida_erlang": 1.6224519999999998,
+  "configuracion_menos_pendientes": "compartida_3",
+  "configuracion_menos_usuarios_en_sistema": "compartida_3",
+  "criterio_aceptacion_usado": "Se considera aceptable una espera media en cola menor o igual a 5 minutos, un tiempo medio en sistema menor o igual a 8 minutos y una utilización máxima menor o igual a 85 %."
+}
